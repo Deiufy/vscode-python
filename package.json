@@ -2202,7 +2202,7 @@
         "vscode-extension-telemetry": "^0.1.0",
         "vscode-languageclient": "^4.4.0",
         "vscode-languageserver": "^4.4.0",
-        "vscode-languageserver-protocol": "^3.10.3",
+        "vscode-languageserver-protocol": "^3.16.0",
         "vsls": "^0.3.1291",
         "winreg": "^1.2.4",
         "winston": "^3.2.1",
