@@ -2195,7 +2195,7 @@
         "tslint": "^5.14.0",
         "typescript-char": "^0.0.0",
         "uint64be": "^1.0.1",
-        "unicode": "^10.0.0",
+        "unicode": "^13.0.0",
         "untildify": "^3.0.2",
         "vscode-debugadapter": "^1.28.0",
         "vscode-debugprotocol": "^1.28.0",
